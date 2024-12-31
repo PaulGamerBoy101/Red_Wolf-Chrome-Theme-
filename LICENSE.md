@@ -1,4 +1,5 @@
-# Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License  [CC-BY-NC-ND-4.0]
+# Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License  ![License: CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)
+
 
 > Copyright © December 31, 2024 - 2025, PaulGamerBoy101
 

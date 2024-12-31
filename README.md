@@ -8,4 +8,5 @@
 1. Click Manage Extensions
 1. Enable Developer Mode
 1. Click & Drag Zip File Onto the Page
-* (It Will Take 5-10 Seconds to Apply)
+* It Will Take 5-10 Seconds to Apply
+* You Must Abide by the Terms & Conditions Listed in the LICENCE.md

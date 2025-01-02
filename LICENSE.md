@@ -11,6 +11,7 @@ b. **Licensed Rights** means the rights granted to You subject to the terms and 
 c. **Licensor** means the individual(s) or entity(ies) granting rights under this Public License (PaulGamerBoy101).<br></br>
 d. **NonCommercial** means not primarily intended for or directed towards commercial advantage or monetary compensation.<br></br>
 e. **Share** means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction or distribution.<br></br>
+f. **Endorsement** means You cannot suggest that PaulGamerBoy101 has reviewed, approved, or supports your use of their work, product, or project. You cannot imply that there is any formal partnership, sponsorship, or affiliation between you (or your project) and PaulGamerBoy101 unless you have their explicit permission.
 
 ## Section 2 – Scope.
 1. **License Grant**: Subject to the terms and conditions, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to use the Licensed Material.
